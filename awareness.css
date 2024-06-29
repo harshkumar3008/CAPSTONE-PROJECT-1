@@ -1,0 +1,39 @@
+h1 {
+    background-color: #22438c;
+    text-align: center;
+    font-size: 50px;
+    padding: 0;
+    margin: 0;
+    color: #fff;
+
+}
+h2 {
+    text-align: center;
+    color: rgb(166, 25, 15);
+    font-size: 30px;
+}
+h3 {
+    color: #22438c;
+    font-size: 20px;
+
+}
+img {
+    height: 300px;
+    display: inline-block;
+    padding: 30px;
+
+}
+article {
+    margin-left:430px;
+}
+h4 {
+    padding: 30 px;
+    display: inline-block;
+}
+footer {
+    background-color:#22438c ;
+    text-decoration: none;
+    height: 150px;
+    padding-top: 20px;
+
+}
